@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/havegone/Beta-Release/raw/master/yangtao-Release.ipa</string>
+					<string>http://mtl.alibaba-inc.com/oss/mupp/5642/199745/199618/7d428ae2b30c4419403dc286ba75faac/yangtao-Release-Prepare.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>洋桃</string>
+				<string>洋桃-预发</string>
 			</dict>
 		</dict>
 	</array>
