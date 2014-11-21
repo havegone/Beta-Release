@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://mtl.alibaba-inc.com/oss/mupp/5642/199745/199618/7d428ae2b30c4419403dc286ba75faac/yangtao-Release-Prepare.ipa</string>
+					<string>https://github.com/havegone/Beta-Release/raw/master/yangtao-Release.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
